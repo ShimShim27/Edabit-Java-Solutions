@@ -14,7 +14,7 @@ public class UnMixMyString {
         int len = splitted.length;
         int index = 0;
         while (index < len) {
-            String first = "";
+            String first;
             String second = "";
 
 

@@ -1,5 +1,8 @@
 package com.company.no_yelling;
 
+/**
+ * https://edabit.com/challenge/33tRK98geLPcf73PF
+ */
 public class NoYelling {
     public static void main(String[] args) {
         System.out.println(noYelling("What went wrong?????????"));
@@ -17,6 +20,6 @@ public class NoYelling {
 
         StringBuilder result = new StringBuilder();
         for (String s : splitted) result.append(s).append(" ");
-        return result.substring(0,result.length());
+        return result.substring(0, result.length());
     }
 }

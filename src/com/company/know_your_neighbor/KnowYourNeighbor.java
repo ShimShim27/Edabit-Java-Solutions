@@ -1,5 +1,8 @@
 package com.company.know_your_neighbor;
 
+/**
+ * https://edabit.com/challenge/ka4Mk98LW4TEbcqzH
+ */
 public class KnowYourNeighbor {
     public static void main(String[] args) {
         System.out.println(plusSign("+d+i+#+c+"));

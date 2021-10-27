@@ -7,7 +7,7 @@ import java.util.List;
  * https://edabit.com/challenge/E9AHcnWg7fDfardLF
  */
 public class AlmostPalindrome {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.println(almostPalindrome("1234321"));
         System.out.println(almostPalindrome("abccia"));
         System.out.println(almostPalindrome("abcdaaa"));
